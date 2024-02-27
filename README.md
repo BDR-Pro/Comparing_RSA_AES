@@ -9,6 +9,7 @@ Yo fam, welcome to the ultimate showdown between two heavyweight champs in the c
 ## 👑 RSA (Rivest-Shamir-Adleman) - The Asymmetric Bouncer
 
 Imagine RSA as the exclusive bouncer of your digital club. It uses two keys: one public (like the address to the party) and one private (the secret handshake). This duo makes sure that only YOU can decrypt what was meant for you.
+**I did it to understand why we need both**
 
 - **Key Size**: 4089 bits – Like, majorly hefty. RSA keys are the sumo wrestlers of key sizes, ensuring strong security but taking a bit longer to get off the couch.
 - **Usage**: Perfect for encrypting small bits of data, like the keys for our next contender, AES.
